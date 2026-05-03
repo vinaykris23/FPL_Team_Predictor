@@ -4,6 +4,8 @@ An ML-powered Fantasy Premier League assistant that scores every player using th
 
 Built with **Streamlit**, **scikit-learn**, and the **official FPL API**.
 
+Try it live if you want to just view without all the environment setups → https://vk23-fpl-teampredictor.streamlit.app/
+
 ---
 
 ## 📸 Features
